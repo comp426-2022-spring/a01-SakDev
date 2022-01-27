@@ -51,8 +51,4 @@ fs.readFile("./www/index.html","utf8", (err, data)=> {
 
 
     // That's it! You're all done!
-<<<<<<< HEAD
 })
-=======
-})
->>>>>>> c5307f5b2201a4cbb8397324d1940152fb428cfd
